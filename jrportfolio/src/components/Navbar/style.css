@@ -1,0 +1,12 @@
+.navbar {
+  min-height: 50px;
+  background: #ffff !important;
+}
+
+a {
+  color: #080604 !important;
+}
+
+a:hover {
+  color: #faf3eb !important;
+}

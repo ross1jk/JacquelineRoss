@@ -1,13 +1,21 @@
 import React from "react";
 import "./style.css"
+import { Container, Row, Col } from "../Grid";
+import Form from "../Form";
 
 // Consitent card styling to display my infomation
 
-function Textbox() {
+function Textbox(props) {
   return (
     <div>
       <div className="card">
-        <div className="card-body">This is some text within a card body.</div>
+      <Container>
+      <Row>
+        <Col size="12">
+        <Form />
+        </Col>
+      </Row>
+      </Container>
       </div>
     </div>
   );

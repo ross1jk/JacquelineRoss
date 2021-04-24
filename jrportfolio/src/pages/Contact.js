@@ -1,6 +1,6 @@
 import React from "react"; 
 import Textbox from "../components/Textbox";
-import { Row, Col } from "../components/Grid";
+import { Container, Row, Col } from "../components/Grid";
 
 function Contact() {
     return (
@@ -10,7 +10,9 @@ function Contact() {
       <p> Placeholder Contact Page</p>
       </Col>
       <Col size="6">
-      <Textbox />
+      <Textbox 
+        cardText={"Testing"}
+      />
       </Col>
       </Row>
       </div>
