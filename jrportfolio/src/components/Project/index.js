@@ -2,10 +2,11 @@
 
 //   A list of projects. For each project, make sure you have the following:
 
-//   * Project title
+//   * Project title <nav className="navbar navbar-expand-lg sticky-top navbar-custom">
 
 //   * Link to the deployed version
 
 //   * Link to the GitHub repository
 
 //   * GIF or screenshot of the deployed application
+
