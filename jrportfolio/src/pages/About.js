@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
     return (
-      <p>placeholder</p>
+      <p>Placeholder about me</p>
     );
   }
   
