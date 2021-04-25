@@ -64,7 +64,7 @@ class Form extends React.Component {
                 </article>
 
 
-            </div>
+           </div>
         );
     }
 };

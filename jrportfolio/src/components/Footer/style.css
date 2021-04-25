@@ -1,6 +1,6 @@
 .navbar {
   min-height: 50px;
-  background: #FAF3EB;
+
 }
 
 .navbar span {
@@ -14,18 +14,9 @@
 }
 
 a {
-    color: #080604 !important;
+   color: #080604 !important;
 }
  a:hover{
    color: #bf9a67 !important; 
  }
-
- /* colors
-  black: #080604
- greengray: #c7c7c2
- light gray #d9d9d9
-darker pink #eeb5a6
- gold #bf9a67
- light pink #ead4cd
- */
 

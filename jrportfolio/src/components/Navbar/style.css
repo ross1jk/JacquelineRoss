@@ -1,6 +1,6 @@
 .navbar {
   min-height: 50px;
-  background: #ffff !important;
+  background-color: pink !important;
 }
 
 a {
@@ -8,5 +8,5 @@ a {
 }
 
 a:hover {
-  color: #faf3eb !important;
+  color: #a76254 !important;
 }

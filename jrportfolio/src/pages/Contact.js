@@ -1,18 +1,18 @@
 import React from "react"; 
 import Textbox from "../components/Textbox";
-import { Container, Row, Col } from "../components/Grid";
+import { Row, Col } from "../components/Grid";
+import Title from "../components/Title"; 
 
 function Contact() {
     return (
       <div>
       <Row>
       <Col size="6">
-      <p> Placeholder Contact Page</p>
+      <Title
+      title={"Contact Me"} />
       </Col>
       <Col size="6">
-      <Textbox 
-        cardText={"Testing"}
-      />
+      <Textbox />
       </Col>
       </Row>
       </div>
