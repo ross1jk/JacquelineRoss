@@ -1,6 +1,7 @@
 .navbar {
   min-height: 50px;
-  background-color: pink !important;
+  background-color: white !important;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 a {
@@ -9,4 +10,9 @@ a {
 
 a:hover {
   color: #a76254 !important;
+  border-bottom: #a76254 0.125em solid;
+}
+
+a.active-link {
+  border-bottom: 3px solid #a76254;
 }

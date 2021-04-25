@@ -1,4 +1,7 @@
-.navbar-brand{
-    color: pink !important;
+#name {
+    /* color: #a76254; */
     text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 300%;
+    margin-bottom: 40px;
 }
