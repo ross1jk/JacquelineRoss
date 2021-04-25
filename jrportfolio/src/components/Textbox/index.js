@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css"
 import { Container, Row, Col } from "../Grid";
-import Form from "../Form"
 
 function Textbox() {
   return (
@@ -10,7 +9,6 @@ function Textbox() {
       <Container>
       <Row>
         <Col size="12">
-        <Form />
         </Col>
       </Row>
       </Container>

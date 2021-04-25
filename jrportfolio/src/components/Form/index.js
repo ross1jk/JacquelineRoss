@@ -56,7 +56,7 @@ class Form extends React.Component {
                                     <textarea className="form-control" rows="3" value={this.state.message} onChange={this.submitMessage.bind(this)} />
 
                                 </div>
-                                <button type="submit" className="btn btn-custon">Submit</button>
+                                <button type="submit" className="btn btn-custon" id="contactBtn">Submit</button>
                             </form>
                         </div>
 
