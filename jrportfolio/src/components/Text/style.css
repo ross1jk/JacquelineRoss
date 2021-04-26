@@ -1,0 +1,18 @@
+#smallText{
+   font-family: 'Roboto Condensed', sans-serif;
+   font-size: 20px
+}
+
+#largeText{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px; 
+}
+
+#mediumText{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px; 
+}
+
+#home{
+    text-align: left !important;
+}
