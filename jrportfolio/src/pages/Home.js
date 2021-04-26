@@ -4,8 +4,12 @@ import Text from "../components/Text"
 
 function Home() {
   return (
+    <div>
     <Row>
-      <Col size="8">
+    <Col size="6">
+      <img src={process.env.PUBLIC_URL + "me.png"} class="card-img-top" alt="Jacqueline Ross" id="jrimg" />
+      </Col>
+      <Col size="6">
         <Text
           medium={"I'm Jacqueline,"}
         />
@@ -17,7 +21,10 @@ function Home() {
         <Text
           small={"Current Change Manager at Ford Motor Company for Mainframe Services"} />
       </Col>
+      
     </Row>
+      
+    </div>
   );
 }
 

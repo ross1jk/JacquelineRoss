@@ -10,10 +10,7 @@ function About() {
         <Col size="6">
           <Textbox />
         </Col>
-
         <Col size="6">
-          <Title
-            title={"About Me"} />
         </Col>
 
       </Row>

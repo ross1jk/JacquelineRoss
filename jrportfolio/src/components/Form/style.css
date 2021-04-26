@@ -1,14 +1,17 @@
 .form-control{
-    background-color: #eebda5 !important;
+    background-color: #da9286 !important;
   }
 
   #contact{
-    background-color: #a76254;
+    background-color: #dd9a78 !important;
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 110%;
+    border: none; 
   }
 
   #contactBtn{
     font-size: 110%;
   }
+
+  

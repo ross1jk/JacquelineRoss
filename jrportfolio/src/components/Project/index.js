@@ -3,7 +3,7 @@ import "./style.css";
 
 function Project (props) {
     return(
-        <div>
+        <div id="pgcontent">
         <div class="col mb-4">
         <div class="card h-100">
           <img src={props.image} class="card-img-top" alt="projectImage" id="projectimg" />

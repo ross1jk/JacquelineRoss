@@ -1,6 +1,5 @@
 import React from "react"; 
 import { Row, Col } from "../components/Grid";
-import Title from "../components/Title"; 
 import Form from "../components/Form"
 
 function Contact() {
@@ -8,8 +7,7 @@ function Contact() {
       <div>
       <Row>
       <Col size="6">
-      <Title
-      title={"Contact Me"} />
+      <img src={process.env.PUBLIC_URL + "office.png"} class="card-img-top" alt="Jacqueline Ross" id="jrimg" />
       </Col>
       <Col size="6">
       <Form />

@@ -13,13 +13,6 @@ class Portfolio extends Component {
     return (
       <div>
       <Row>
-        <Col size="12">
-          <Title 
-          title={"My Portfolio"} />
-        </Col>
-      </Row>
-      
-      <Row>
         {this.state.portfolio.map(portfolio => (
         <Project 
           project={portfolio.project}
