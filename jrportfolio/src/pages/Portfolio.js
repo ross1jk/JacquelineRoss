@@ -17,6 +17,7 @@ class Portfolio extends Component {
         <Project 
           project={portfolio.project}
           image={portfolio.image}
+          description={portfolio.description}
           url={portfolio.url}
           repo={portfolio.repo}
         />

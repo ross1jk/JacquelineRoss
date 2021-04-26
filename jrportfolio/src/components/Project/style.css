@@ -6,3 +6,19 @@
    margin-left: auto !important;
    margin-right: auto !important;
 }
+
+#portfolioCard {
+   border: none;
+   color: white;
+   font-family: 'Roboto Condensed', sans-serif;
+   text-align: center;
+   width: 450px;
+}
+#description{
+   height: 50px; 
+}
+
+#url{
+   margin-top: 10px;
+   margin-bottom: 1px;
+}
