@@ -2,3 +2,17 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+body{
+    height:100%;
+    background: linear-gradient(90deg, white 50%, #dd9a78 50%)
+}
+
+/* Dae Colors 
+Brown:#dd9a78
+light tan: #f1d3b9
+light pink: eccbc2
+darker pink:#da9286 
+orange: d17b5f
+
+*/

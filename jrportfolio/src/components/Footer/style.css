@@ -1,6 +1,5 @@
-.navbar {
+#footer {
   min-height: 50px;
-
 }
 
 .navbar span {
@@ -11,6 +10,7 @@
   padding: 3px;
   text-align: center;
   font-size: 20px;
+  opacity: 100%;
 }
 
 a {
