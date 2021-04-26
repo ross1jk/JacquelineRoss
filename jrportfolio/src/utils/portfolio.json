@@ -1,0 +1,38 @@
+[
+    {
+      "project": "Vax Track",
+      "image": "https://media.giphy.com/media/v4lMdtnvTP1VfUfxUH/giphy.gif",
+      "url": "https://vaccine-app-project2.herokuapp.com/",
+      "repo": "https://github.com/ross1jk/shots"
+    },
+    {
+      "project": "Cycology",
+      "image": "https://media.giphy.com/media/sskDZ7q33J9YahBOh3/giphy.gif",
+      "url": "https://romerodi.github.io/cycle-ology/search-element",
+      "repo": "https://github.com/ross1jk/cycle-ology"
+    },
+    {
+      "project": "Eat Da Burger",
+      "image": "https://media.giphy.com/media/Vdo6KiDavwHkDa4vo1/giphy.gif",
+      "url": "https://dry-eyrie-60767.herokuapp.com/",
+      "repo": "https://github.com/ross1jk/EatDaBurger"
+    },
+    {
+      "project": "Employee Directory",
+      "image": "https://media.giphy.com/media/jnDpAqkezpdNC0GCHo/giphy.gif",
+      "url": "https://ross1jk.github.io/EmployeeDirectory/",
+      "repo": "https://github.com/ross1jk/EmployeeDirectory"
+    },
+    {
+      "project": "Budget Tracker",
+      "image": "https://media.giphy.com/media/rXKShPrQBhkRdIdPfP/giphy.gif",
+      "url": "https://budgettrackerjr.herokuapp.com/",
+      "repo": "https://github.com/ross1jk/BudgetTracker"
+    },
+    {
+      "project": "Note Taker",
+      "image": "https://media.giphy.com/media/VHN2nm44Hk1Ziu5d5x/giphy.gif",
+      "url": "https://fathomless-journey-03162.herokuapp.com/",
+      "repo": "https://github.com/ross1jk/NoteTaker"
+    }
+]

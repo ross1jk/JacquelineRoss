@@ -1,7 +1,6 @@
 import React from "react";
 import { Row, Col } from "../components/Grid";
 import Text from "../components/Text"
-import { Link } from "react-router-dom";
 
 function Home() {
   return (
