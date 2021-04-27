@@ -1,5 +1,3 @@
-// A `Header` component that appears on multiple pages
-
 import React from "react"; 
 import Navbar from "../Navbar"
 import "./style.css"

@@ -8,10 +8,11 @@ a {
 }
 
 a:hover {
-  color: #a76254 !important;
-  border-bottom: #a76254 0.125em solid;
+  color: #d17b5f !important;
+  font-size: larger;
+  border-bottom: #d17b5f 0.125em solid;
 }
 
-a.active-link {
-  border-bottom: 3px solid #a76254;
+a:active {
+  border-bottom: 0.125em solid #d17b5f !important;
 }

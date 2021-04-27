@@ -13,7 +13,9 @@
    font-family: 'Roboto Condensed', sans-serif;
    text-align: center;
    width: 450px;
+   background-color: #d17b5f;
 }
+
 #description{
    height: 50px; 
 }

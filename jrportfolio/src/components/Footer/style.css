@@ -16,7 +16,6 @@
 a {
    color: #080604 !important;
 }
- a:hover{
-   color: #bf9a67 !important; 
- }
-
+a:hover{
+  text-decoration: none !important;
+}

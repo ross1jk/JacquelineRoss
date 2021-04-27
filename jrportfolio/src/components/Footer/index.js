@@ -1,4 +1,3 @@
-// * A `Footer` component that appears on multiple pages
 import React from "react";
 import "./style.css"
 

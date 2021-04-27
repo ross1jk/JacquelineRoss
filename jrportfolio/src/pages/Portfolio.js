@@ -1,7 +1,6 @@
 import React, { Component } from "react"; 
-import { Row, Col } from "../components/Grid";
+import { Row } from "../components/Grid";
 import Project from "../components/Project";
-import Title from "../components/Title";
 import portfolio from "../utils/portfolio.json";
 
 class Portfolio extends Component {
