@@ -2,42 +2,42 @@
     {
       "project": "Vax Track",
       "description": "An application that assits users in singing up for the Covid-19 vaccine. This application utilizes Node, MySQL, JQuery, Handlebars, HTML, JavaScript, AJAX, API and HTML Routes ",
-      "image": "https://media.giphy.com/media/v4lMdtnvTP1VfUfxUH/giphy.gif",
+      "image": "https://media.giphy.com/media/4GVFhUrMpFguQyGSmc/giphy.gif",
       "url": "https://vaccine-app-project2.herokuapp.com/",
       "repo": "https://github.com/ross1jk/shots"
     },
     {
       "project": "Cycology",
       "description": "An applicaiton that allows users to find customized bike routes. This applicaiton utilizes Jquery, HTML, AJAX, API Routes",
-      "image": "https://media.giphy.com/media/sskDZ7q33J9YahBOh3/giphy.gif",
+      "image": "https://media.giphy.com/media/SDl584029LhbVKk8PS/giphy.gif",
       "url": "https://romerodi.github.io/cycle-ology/search-element",
       "repo": "https://github.com/ross1jk/cycle-ology"
     },
     {
       "project": "Eat Da Burger",
       "description": "Eat-Da-Burger is a burger logger application that utilzes n MySQL, Node, Express, Handlebars and an ORM. This application follows design pattern. Eat-Da-Burger uses Node and MySQL to query and route data to the application, and Handlebars to generate the HTML.",
-      "image": "https://media.giphy.com/media/Vdo6KiDavwHkDa4vo1/giphy.gif",
+      "image": "https://media.giphy.com/media/nd6UbmCnHOP6tjPi5u/giphy.gif",
       "url": "https://dry-eyrie-60767.herokuapp.com/",
       "repo": "https://github.com/ross1jk/EatDaBurger"
     },
     {
       "project": "Note Taker",
       "description": "Note Taker can be used to write and save notes using Express.js back end functionality. This application saves and retrieves note data from a JSON file.",
-      "image": "https://media.giphy.com/media/VHN2nm44Hk1Ziu5d5x/giphy.gif",
+      "image": "https://media.giphy.com/media/CyHPKZuzAtl8fyto0g/giphy.gif",
       "url": "https://fathomless-journey-03162.herokuapp.com/",
       "repo": "https://github.com/ross1jk/NoteTaker"
     },
     {
       "project": "Budget Tracker",
       "description": "Budget Tracker is an interactive workout application that utilzes MongoDB, Node, Express, HTML, JavaScript, API Routes, Service Workers, Cached information, and an indexed db.",
-      "image": "https://media.giphy.com/media/rXKShPrQBhkRdIdPfP/giphy.gif",
+      "image": "https://media.giphy.com/media/VZWAXcffyWThQpFItt/giphy.gif",
       "url": "https://budgettrackerjr.herokuapp.com/",
       "repo": "https://github.com/ross1jk/BudgetTracker"
     },
     {
       "project": "Employee Directory",
       "description": "A React application that utilzies Random User API to render a table of random users on page load. When a user enters a search term then, that search result will render above the complete list of employees. The user is able to: Sort employees alphabetically and filter employees by first name, last name, or state.",
-      "image": "https://media.giphy.com/media/jnDpAqkezpdNC0GCHo/giphy.gif",
+      "image": "https://media.giphy.com/media/tNzfDOlGYSY9seouzQ/giphy.gif",
       "url": "https://ross1jk.github.io/EmployeeDirectory/",
       "repo": "https://github.com/ross1jk/EmployeeDirectory"
     }
