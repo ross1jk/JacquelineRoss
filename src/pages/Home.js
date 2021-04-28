@@ -7,7 +7,7 @@ function Home() {
     <div>
     <Row>
     <Col size="6">
-      <img src={process.env.PUBLIC_URL + "me.png"} class="card-img-top" alt="Jacqueline Ross" id="jrimg" />
+      <img src={process.env.PUBLIC_URL + "me.png"} className="img-fluid" alt="Jacqueline Ross" id="jrimg" />
       </Col>
       <Col size="6">
         <Text

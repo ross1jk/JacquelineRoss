@@ -7,7 +7,7 @@ function Contact() {
       <div>
       <Row>
       <Col size="6">
-      <img src={process.env.PUBLIC_URL + "office.png"} class="card-img-top" alt="Jacqueline Ross" id="jrimg" />
+      <img src={process.env.PUBLIC_URL + "office.png"} className="img-fluid" alt="Jacqueline Ross" id="jrimg" />
       </Col>
       <Col size="6">
       <Form />
