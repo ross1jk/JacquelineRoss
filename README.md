@@ -2,8 +2,6 @@
 
 This is my personal portfolio that uitlizes React library to display responsive html, javascript, and css.
 
-* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
-
 ## Table of Contents
 
 * [Deployed_Application](#Deployed_Application)

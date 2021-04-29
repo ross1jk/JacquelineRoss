@@ -1,13 +1,14 @@
 import React from "react";
 import { Row, Col } from "../components/Grid";
 import Text from "../components/Text";
+import Jacqueline from "../imgs/jr.png";
 
 function About() {
   return (
     <div>
       <Row>
         <Col size="6">
-        <img src={process.env.PUBLIC_URL + "jr.png"} className="img-fluid" alt="Jacqueline Ross" id="jrimg" /> 
+        <img src={(Jacqueline)} className="img-fluid" alt="Jacqueline Ross" id="jrimg" /> 
         </Col>
         <Col size="6">
          <Text large={"Hi, I'm Jacqueline"} />
