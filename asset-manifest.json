@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JacquelineRoss/static/css/main.b456b4c6.chunk.css",
+    "main.js": "/JacquelineRoss/static/js/main.ebe0f743.chunk.js",
+    "main.js.map": "/JacquelineRoss/static/js/main.ebe0f743.chunk.js.map",
+    "runtime-main.js": "/JacquelineRoss/static/js/runtime-main.e439dd87.js",
+    "runtime-main.js.map": "/JacquelineRoss/static/js/runtime-main.e439dd87.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/JacquelineRoss/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6c5b1c70.chunk.js": "/JacquelineRoss/static/js/2.6c5b1c70.chunk.js",
+    "static/js/2.6c5b1c70.chunk.js.map": "/JacquelineRoss/static/js/2.6c5b1c70.chunk.js.map",
+    "index.html": "/JacquelineRoss/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/JacquelineRoss/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b456b4c6.chunk.css.map": "/JacquelineRoss/static/css/main.b456b4c6.chunk.css.map",
+    "static/js/2.6c5b1c70.chunk.js.LICENSE.txt": "/JacquelineRoss/static/js/2.6c5b1c70.chunk.js.LICENSE.txt",
+    "static/media/JacquelineRossResume.541c4fdd.pdf": "/JacquelineRoss/static/media/JacquelineRossResume.541c4fdd.pdf",
+    "static/media/jr.192baf94.png": "/JacquelineRoss/static/media/jr.192baf94.png",
+    "static/media/office.09e48e41.png": "/JacquelineRoss/static/media/office.09e48e41.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e439dd87.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6c5b1c70.chunk.js",
+    "static/css/main.b456b4c6.chunk.css",
+    "static/js/main.ebe0f743.chunk.js"
+  ]
+}
