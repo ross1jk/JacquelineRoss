@@ -7,6 +7,13 @@
       "repo": "https://github.com/ross1jk/shots"
     },
     {
+      "project": "Google Book Shelf",
+      "description": "This Google Book Shelf Full-Stack application follows the MERN Stack framework, utilizes Google Books API to search for books and Node, Express & MongoDB to save books of the user's choice to review or purchase later.",
+      "image": "https://media.giphy.com/media/vVXf8AWtpwutAOQt66/giphy.gif",
+      "url": "https://glacial-hollows-38613.herokuapp.com/saved",
+      "repo": "https://github.com/ross1jk/GoogleBookShelf"
+    },
+    {
       "project": "Cycology",
       "description": "An applicaiton that allows users to find customized bike routes. This applicaiton utilizes Jquery, HTML, AJAX, API Routes",
       "image": "https://media.giphy.com/media/SDl584029LhbVKk8PS/giphy.gif",
