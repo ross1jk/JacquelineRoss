@@ -1,51 +1,58 @@
 [
-    {
-      "project": "Vax Track",
-      "description": "An application that assits users in singing up for the Covid-19 vaccine. This application utilizes Node, MySQL, JQuery, Handlebars, HTML, JavaScript, AJAX, API and HTML Routes ",
-      "image": "https://media.giphy.com/media/4GVFhUrMpFguQyGSmc/giphy.gif",
-      "url": "https://vaccine-app-project2.herokuapp.com/",
-      "repo": "https://github.com/ross1jk/shots"
-    },
-    {
-      "project": "Google Book Shelf",
-      "description": "This Google Book Shelf Full-Stack application follows the MERN Stack framework, utilizes Google Books API to search for books and Node, Express & MongoDB to save books of the user's choice to review or purchase later.",
-      "image": "https://media.giphy.com/media/vVXf8AWtpwutAOQt66/giphy.gif",
-      "url": "https://glacial-hollows-38613.herokuapp.com/saved",
-      "repo": "https://github.com/ross1jk/GoogleBookShelf"
-    },
-    {
-      "project": "Cycology",
-      "description": "An applicaiton that allows users to find customized bike routes. This applicaiton utilizes Jquery, HTML, AJAX, API Routes",
-      "image": "https://media.giphy.com/media/SDl584029LhbVKk8PS/giphy.gif",
-      "url": "https://romerodi.github.io/cycle-ology/search-element",
-      "repo": "https://github.com/ross1jk/cycle-ology"
-    },
-    {
-      "project": "Eat Da Burger",
-      "description": "Eat-Da-Burger is a burger logger application that utilzes n MySQL, Node, Express, Handlebars and an ORM. This application follows design pattern. Eat-Da-Burger uses Node and MySQL to query and route data to the application, and Handlebars to generate the HTML.",
-      "image": "https://media.giphy.com/media/nd6UbmCnHOP6tjPi5u/giphy.gif",
-      "url": "https://dry-eyrie-60767.herokuapp.com/",
-      "repo": "https://github.com/ross1jk/EatDaBurger"
-    },
-    {
-      "project": "Note Taker",
-      "description": "Note Taker can be used to write and save notes using Express.js back end functionality. This application saves and retrieves note data from a JSON file.",
-      "image": "https://media.giphy.com/media/CyHPKZuzAtl8fyto0g/giphy.gif",
-      "url": "https://fathomless-journey-03162.herokuapp.com/",
-      "repo": "https://github.com/ross1jk/NoteTaker"
-    },
-    {
-      "project": "Budget Tracker",
-      "description": "Budget Tracker is an interactive workout application that utilzes MongoDB, Node, Express, HTML, JavaScript, API Routes, Service Workers, Cached information, and an indexed db.",
-      "image": "https://media.giphy.com/media/VZWAXcffyWThQpFItt/giphy.gif",
-      "url": "https://budgettrackerjr.herokuapp.com/",
-      "repo": "https://github.com/ross1jk/BudgetTracker"
-    },
-    {
-      "project": "Employee Directory",
-      "description": "A React application that utilzies Random User API to render a table of random users on page load. When a user enters a search term then, that search result will render above the complete list of employees. The user is able to: Sort employees alphabetically and filter employees by first name, last name, or state.",
-      "image": "https://media.giphy.com/media/tNzfDOlGYSY9seouzQ/giphy.gif",
-      "url": "https://ross1jk.github.io/EmployeeDirectory/",
-      "repo": "https://github.com/ross1jk/EmployeeDirectory"
-    }
+  {
+    "project": "Opus",
+    "description": "A Full-Stack application follows the MERN Stack framework, uses React, Node, relational Sequelize databases for a reader focused reading experience.",
+    "image": "https://media.giphy.com/media/owbz8FJgRvpZ9FtHCh/giphy.gif",
+    "url": "https://opus2021.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/Opus"
+  },
+  {
+    "project": "Cycology",
+    "description": "A Full-Stack application follows the MERN Stack framework, uses React, Node, Mongo database to generate cycling specific routes for users.",
+    "image": "https://media.giphy.com/media/B91klsCIhtUi60APH3/giphy.gif",
+    "url": "https://glacial-tundra-95174.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/cycology"
+  },
+  {
+    "project": "Vax Track",
+    "description": "An application that assits users in singing up for the Covid-19 vaccine. This application utilizes Node, MySQL, JQuery, Handlebars, HTML, JavaScript, AJAX, API and HTML Routes ",
+    "image": "https://media.giphy.com/media/4GVFhUrMpFguQyGSmc/giphy.gif",
+    "url": "https://vaccine-app-project2.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/shots"
+  },
+  {
+    "project": "Google Book Shelf",
+    "description": "This Google Book Shelf Full-Stack application follows the MERN Stack framework, utilizes Google Books API to search for books and Node, Express & MongoDB to save books of the user's choice to review or purchase later.",
+    "image": "https://media.giphy.com/media/vVXf8AWtpwutAOQt66/giphy.gif",
+    "url": "https://glacial-hollows-38613.herokuapp.com/saved",
+    "repo": "https://github.com/ross1jk/GoogleBookShelf"
+  },
+  {
+    "project": "Eat Da Burger",
+    "description": "Eat-Da-Burger is a burger logger application that utilzes n MySQL, Node, Express, Handlebars and an ORM. This application follows design pattern. Eat-Da-Burger uses Node and MySQL to query and route data to the application, and Handlebars to generate the HTML.",
+    "image": "https://media.giphy.com/media/nd6UbmCnHOP6tjPi5u/giphy.gif",
+    "url": "https://dry-eyrie-60767.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/EatDaBurger"
+  },
+  {
+    "project": "Note Taker",
+    "description": "Note Taker can be used to write and save notes using Express.js back end functionality. This application saves and retrieves note data from a JSON file.",
+    "image": "https://media.giphy.com/media/CyHPKZuzAtl8fyto0g/giphy.gif",
+    "url": "https://fathomless-journey-03162.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/NoteTaker"
+  },
+  {
+    "project": "Budget Tracker",
+    "description": "Budget Tracker is an interactive workout application that utilzes MongoDB, Node, Express, HTML, JavaScript, API Routes, Service Workers, Cached information, and an indexed db.",
+    "image": "https://media.giphy.com/media/VZWAXcffyWThQpFItt/giphy.gif",
+    "url": "https://budgettrackerjr.herokuapp.com/",
+    "repo": "https://github.com/ross1jk/BudgetTracker"
+  },
+  {
+    "project": "Employee Directory",
+    "description": "A React application that utilzies Random User API to render a table of random users on page load. When a user enters a search term then, that search result will render above the complete list of employees. The user is able to: Sort employees alphabetically and filter employees by first name, last name, or state.",
+    "image": "https://media.giphy.com/media/tNzfDOlGYSY9seouzQ/giphy.gif",
+    "url": "https://ross1jk.github.io/EmployeeDirectory/",
+    "repo": "https://github.com/ross1jk/EmployeeDirectory"
+  }
 ]
